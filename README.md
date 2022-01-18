@@ -8,3 +8,5 @@ Used input, functions, loops, conditions.
 
 Followed guidance from the project and was really nice to see how I could build a simple chat bot.
 
+Project location: Simple-Chatty-Bot/task/bot/bot.py
+
